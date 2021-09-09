@@ -18,5 +18,11 @@ Man:
    profession: Interpreter
  
   Man2:
-    name: Don
+    name: Dno
     profession: driver
+  Man3:
+   name: Dik
+   profession: benchmark
+
+girls: [Kate2, Kate1, Inna]
+Man: [Victor, Dno, Dik]
