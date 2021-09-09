@@ -24,7 +24,8 @@ Man:
    name: Dik
    profession: benchmark
 
-girls1_1:
-  - Kate2
-  - Kate1
+girls:
+  - girls1
+  - girls2
+  - girls3
 
