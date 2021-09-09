@@ -1,0 +1,10 @@
+#YAML
+MY CLASS:
+ girls: 
+ name: Kate1
+ profession: Doctor
+ name: Kate2
+ profession: Interpreter
+ name: Inna
+ profession: Engineer
+ 
