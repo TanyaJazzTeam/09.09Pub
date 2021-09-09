@@ -24,6 +24,7 @@ Man:
    name: Dik
    profession: benchmark
 
-#girls: [Kate2, Kate1, Inna]
+girls:
+  - Kate2
+  - Kate1
 
-#Man: [Victor, Dno, Dik] 
