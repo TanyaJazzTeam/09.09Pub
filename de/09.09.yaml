@@ -1,0 +1,15 @@
+---
+girls:
+- Mädchen1
+- Mädchen2
+- Mädchen3
+Man:
+  man1:
+    name: Sieger
+    profession: Dolmetscher
+  Man2:
+    name: Dnein
+    profession: Treiber
+  Man3:
+    name: Dik
+    profession: Benchmark
